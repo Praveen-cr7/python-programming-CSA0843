@@ -12,3 +12,7 @@
 12. Retailer
 13. Pattern
 14. Mirror image
+15. argumment
+16. pattern
+17. perfect
+18.factorial
