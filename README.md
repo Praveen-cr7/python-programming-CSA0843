@@ -6,3 +6,6 @@
 6. VOWEL 
 7. BINARY ADDITION
 8. CALCULATOR
+9. Upper and lower
+10. Positive and negative
+11. M and n th value
