@@ -9,3 +9,6 @@
 9. Upper and lower
 10. Positive and negative
 11. M and n th value
+12. Retailer
+13. Pattern
+14. Mirror image
