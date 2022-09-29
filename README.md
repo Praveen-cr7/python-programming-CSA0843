@@ -22,3 +22,4 @@
 22. leap year
 23. matrix addition
 24. combinations
+25. pattern
