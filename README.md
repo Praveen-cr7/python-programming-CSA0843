@@ -16,3 +16,9 @@
 16. pattern
 17. perfect
 18.factorial
+19. simple intrest
+20. palindrome
+21. skipping numbers
+22. leap year
+23. matrix addition
+24. combinations
