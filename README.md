@@ -15,6 +15,7 @@
 15. argumment
 16. pattern
 17. perfect
+
 18.factorial
 19. simple intrest
 20. palindrome
@@ -23,3 +24,10 @@
 23. matrix addition
 24. combinations
 25. pattern
+26. sum of square
+27. ascending and desending
+28. print vowels
+29. square and cube
+30. staff users
+31. reverse
+32. vowels and consonants
