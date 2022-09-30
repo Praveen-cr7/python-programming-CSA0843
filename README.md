@@ -15,7 +15,6 @@
 15. argumment
 16. pattern
 17. perfect
-
 18.factorial
 19. simple intrest
 20. palindrome
