@@ -41,3 +41,6 @@
 41. prime and composit
 42. charpattren
 43. smaller than current
+44. count prime and composite
+45. frequency
+46. calculate operations
