@@ -30,3 +30,14 @@
 30. staff users
 31. reverse
 32. vowels and consonants
+33. merge sort
+34. eligibility
+35.pattern
+36. gcd
+37. length of word
+38. swap tuple
+39. little robert
+40. emplyoee grade
+41. prime and composit
+42. charpattren
+43. smaller than current
